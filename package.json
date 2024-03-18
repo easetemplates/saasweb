@@ -1,0 +1,30 @@
+{
+	"name": "saasweb",
+	"version": "1.0.0",
+	"description": "saasweb",
+	"main": "index.js",
+	"scripts": {
+		"start": "vite",
+		"build": "vite build",
+		"test": "npm run build",
+		"preview": "vite preview"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/easetemplates/saasweb.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/easetemplates/saasweb/issues"
+	},
+	"homepage": "https://github.com/easetemplates/saasweb#readme",
+	"devDependencies": {
+		"sass": "^1.72.0",
+		"vite": "^5.1.6"
+	},
+	"dependencies": {
+		"bootstrap": "^5.3.3"
+	}
+}
